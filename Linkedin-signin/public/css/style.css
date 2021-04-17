@@ -1,0 +1,22 @@
+#site {
+    max-width: 600px;
+    padding: 0 1em;
+    margin: 10vh auto;
+}
+
+*:focus {
+    outline-style: none !important;
+    box-shadow: none !important;
+}
+
+#share-form textarea {
+    height: 200px;
+}
+body{
+    /* background: linear-gradient(45deg, #00FFFF,#00FFFF); */
+    font-family: 'RocknRoll One', sans-serif;
+    background: linear-gradient(90deg, #008b8b  ,#00FFFF , #008b8b);
+}
+h1,h3,p{
+    color: black;
+}
